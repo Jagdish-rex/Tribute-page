@@ -116,6 +116,10 @@ footer p {
         font-weight: bolder;
         margin-bottom: 20px;
     }
+    .title-image {
+        width: 250px;
+        height: 275px;
+    }
     .top_section {
         text-align: center;
         align-items: center;
